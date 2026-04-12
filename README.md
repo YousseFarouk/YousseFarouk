@@ -5,13 +5,29 @@ A Data Analyst specializing in financial and sales analytics, focused on transfo
 I build automated dashboards and reporting systems using Excel and Power Query to improve business decision-making and performance tracking.
 
 📊 Focus: Sales, Revenue, KPI analysis  
-🛠 Tools: Excel, Power Query, Dashboards
+🛠 Tools: Excel, Power Query, Power Pivot, Dashboards
 ## 🚀 About Me
 
 Financial & Sales Data Analyst focused on building automated reporting systems
 and scalable Excel-based analytics solutions.
 
 I help businesses understand performance trends and make data-driven decisions.
+## 📂 Featured Projects
+
+📊 Sales Performance Dashboard
+→ Automated Excel dashboard tracking revenue, orders, and KPIs
+→ Power Query cleaning + dynamic reporting
+
+💰 Financial Revenue Analysis
+→ Identified revenue trends and top-performing products
+→ Business insight reporting for decision-making
+
+📈 KPI Reporting System
+→ Built automated KPI tracking framework
+→ Reduced manual reporting time significantly
+## ⚙️ Workflow
+
+Data → Cleaning → Modeling → KPI Design → Dashboard → Insights
 
 <!--
 **YousseFarouk/YousseFarouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
