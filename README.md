@@ -6,12 +6,6 @@ I build automated dashboards and reporting systems using Excel and Power Query t
 
 📊 Focus: Sales, Revenue, KPI analysis  
 🛠 Tools: Excel, Power Query, Power Pivot, Dashboards
-## 🚀 About Me
-
-Financial & Sales Data Analyst focused on building automated reporting systems
-and scalable Excel-based analytics solutions.
-
-I help businesses understand performance trends and make data-driven decisions.
 ## 📂 Featured Projects
 
 📊 Sales Performance Dashboard
