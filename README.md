@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Youssef
 
-A Data Analyst specializing in financial and sales analytics, focused on transforming raw data into actionable business insights.
+A Data Analyst focused on transforming raw data into actionable business insights.
 
 I build automated dashboards and reporting systems using Excel and Power Query to improve business decision-making and performance tracking.
 
