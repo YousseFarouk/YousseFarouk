@@ -5,7 +5,7 @@ A Data Analyst focused on transforming raw data into actionable business insight
 I build automated dashboards and reporting systems using Excel and Power Query to improve business decision-making and performance tracking.
 
 📊 Focus: Sales, Revenue, KPI analysis  
-🛠 Tools: Excel, Power Query, Power Pivot, Dashboards
+🛠 Tools: Excel, Power Query, Power Pivot, Tableau, Dashboards
 ## 📂 Featured Projects
 
 📊 Sales Performance Dashboard
